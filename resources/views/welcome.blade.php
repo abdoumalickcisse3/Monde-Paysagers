@@ -7,9 +7,7 @@
         <title>Monde Paysager</title>
 
         <!-- Fonts -->
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
-
+        
     </head>
     <body class="">
         <p>Milky</p>
