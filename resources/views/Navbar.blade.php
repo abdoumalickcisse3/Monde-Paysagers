@@ -1,4 +1,5 @@
 <header class="header">
+    
     <a href="#" class="logo"><img src="{{ asset('images/logo.svg') }}" alt="" /></a>
 
     <nav class="navbar">
