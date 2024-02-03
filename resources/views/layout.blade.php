@@ -22,6 +22,8 @@
         </div>
     </div>
 
+    @include('Footer')
+
     <script src="https://unpkg.com/scrollreveal"></script>
 
     <script src="{{ asset('/jsfiles/navbar.js') }}"></script>
