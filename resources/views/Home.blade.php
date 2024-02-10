@@ -1,7 +1,5 @@
 @extends('layout')
 
-
-
     <section class="home" id=home>
         <div class="home-content">
             <img src="{{ asset('images/jumbo.svg') }}" alt="" class="img-jumbo">
